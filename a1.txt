@@ -1,0 +1,10 @@
+a1	name	string	grade	float	class	string	age	int
+Alice	9.02	9th	10000000
+Bob	8.03	9th	1100
+Alice	6.05	8th	11
+Alice	8.06	8th	10
+Bob	9.01	8th	10
+Cathy	10.00	9th	12
+Dan	6.00	10th	13
+Harry	7.89	12th	15
+Ram	8.93	8th	10

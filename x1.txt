@@ -1,0 +1,6 @@
+x1	a	string	b	int	c	string	d	string
+al	1	al	a
+be	2	ga	a
+ga	4	be	b
+al	1	ga	a
+de	2	be	b

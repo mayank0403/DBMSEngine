@@ -1,0 +1,6 @@
+x	b	int	d	string	e	string
+1	a	al
+3	a	be
+1	a	ga
+2	b	de
+3	b	ep
